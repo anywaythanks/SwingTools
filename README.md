@@ -11,9 +11,9 @@ These are tools that extend the capabilities of the Swing standard library in Ja
 
 > FontSizeCalculator - class for calculating font sizes. For example, it contains a method for calculating the maximum font size in some container.
 
-> Animation Package - Provides easy creation of animations in Swing.
+> animation package - provides easy creation of animations in Swing.
 
-> Interfaces package - a package with all used interfaces.
+> interfaces package - a package with all used interfaces.
 
 # Installation
 You can use both GitHub releases and build systems.
