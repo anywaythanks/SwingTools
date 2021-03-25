@@ -15,7 +15,7 @@ These are tools that extend the capabilities of the Swing standard library in Ja
 
 > interfaces package - a package with all used interfaces.
 
-# Installation
+## Installation
 You can use both GitHub releases and build systems.
 
 Maven:
